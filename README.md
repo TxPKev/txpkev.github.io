@@ -1,4 +1,4 @@
-# AriNet - Deterministische KI für alle
+# AriNet - Deterministische KI 
 
 ![AriNet Logo](assets/arinet-logo-chrome.png)
 
