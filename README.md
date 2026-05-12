@@ -1,1 +1,1 @@
-Redirect to https://txpkev.github.io/NOVAMINDSTUDIO
+Redirect to https://txpkev.github.io/novamindstudio
